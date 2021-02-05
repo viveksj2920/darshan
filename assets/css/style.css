@@ -964,6 +964,7 @@ section {
 .pricing h4 {
   font-size: 20px;
   color:#e8662e;
+  text-align: center;
   font-weight: 600;
   font-family: "Roboto", sans-serif;
   margin-bottom: 20px;
